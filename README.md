@@ -1,14 +1,13 @@
 ![MasterHead](https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*NxyD7Ze7mLWr3laNxBbG9g.png)
 
 <h1 align="center">Hi 👋, I'm Harish</h1>
-<h3 align="center">A passionate Data Science and Physics graduate</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsv1g19&label=Profile%20views&color=0e75b6&style=flat" alt="hsv1g19" /> </p>
 
-- 👨‍💻 Skills **Statistical modelling,  Data cleaning, Preprocessing & visualisation, Data warehousing, Feature Selection, A/B testing, Model selection + implementation, OOP**
+- 👨‍💻 Skills **Statistical modelling, Backend implementation, Data cleaning, Preprocessing & visualisation, Data warehousing, Feature Selection, Model selection + implementation, OOP**
 
-- ✍️ Tools **Python (Keras, Scikit-learn), PostgreSQL, Amazon Relational Database Service(RDS), Amazon S3, Pytorch, Amazon Web Services (AWS), FastAPI, Tenserboard**
+- ✍️ Tools **Python (Keras, Scikit-learn), PostgreSQL, Amazon Relational Database Service(RDS), Amazon S3, Pytorch, Amazon Web Services (AWS), FastAPI, Tenserboard, Docker Azure Dev Ops**
 
 - 📫 How to reach me **harishvadgama@outlook.com**
   
