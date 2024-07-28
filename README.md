@@ -6,11 +6,9 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsv1g19&label=Profile%20views&color=0e75b6&style=flat" alt="hsv1g19" /> </p>
 
-- 🌱 I’m currently learning **Data Sceince, ML**
+- 👨‍💻 Skills **Statistical modelling,  Data cleaning, Preprocessing & visualisation, Data warehousing, Feature Selection, A/B testing, Model selection + implementation, OOP**
 
-- 👨‍💻 Skills **Statistical modelling, Data cleaning, Preprocessing & visualisation, Data warehousing, Feature Selection, A/B testing, Model selection + implementation, OOP**
-
-- ✍️ Tools **Python (Keras, Scikit-learn), PostgreSQL, Amazon Relational Database Service(RDS), Amazon S3, Pytorch, Amazon Web Services (AWS), Tenserboard**
+- ✍️ Tools **Python (Keras, Scikit-learn), PostgreSQL, Amazon Relational Database Service(RDS), Amazon S3, Pytorch, Amazon Web Services (AWS), FastAPI, Tenserboard**
 
 - 📫 How to reach me **harishvadgama@outlook.com**
   
