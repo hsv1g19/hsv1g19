@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*NxyD7Ze7mLWr3laNxBbG9g.png)
 
-<h1 align="center">Hi 👋, I'm Harish</h1>
+<h1 align="center">Hi 👋,
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsv1g19&label=Profile%20views&color=0e75b6&style=flat" alt="hsv1g19" /> </p>
